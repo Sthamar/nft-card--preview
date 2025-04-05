@@ -17,7 +17,7 @@
 }
 
 body{
-    background-color: var(--Very-dark-blue);
+    background-color: var(--Very-dark-blue-card);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -26,7 +26,7 @@ body{
 }
 
 .card{
-    background-color: var(--Very-dark-blue-card);
+    background-color: var(--Very-dark-blue);
     width: 320px;
     padding: 2rem;
     box-shadow: 10rem 10rem 40rem rgba(0, 0, 0, 0.9);
